@@ -24,7 +24,7 @@ Algunos comandos para conocer información sobre el resto de comandos:
 
 La idea básica de generar programas en bash es poder ejecutar múltiples comandos de forma secuencial en muchas ocasiones para automatizar una tarea en especifico. Estos comandos son colocados en un archivo de textos de manera secuencial para poder ejecutarlos a posterioridad.
 
-Un archivo `.vimrc` podremos configurar de mejor manera nuestro editor VIM.
+Un archivo `.vimrc` podremos configurar de mejor manera nuestro editor VIM
 
 Presionamos `I` para poder escribir en nuestro editor.Presionamos `ESC` para salir del modo edición, luego escribimos `:wq` para salir y guardar nuestro archivo.
 
